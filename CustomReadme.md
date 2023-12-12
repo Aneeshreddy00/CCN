@@ -2,7 +2,7 @@ Hello! Please ensure you follow these steps for the custom project:
 
 Make sure you are using a Mac operating system.
 
-Follow all the instructions outlined in the customProjectRequirements.txt file.
+Follow all the instructions outlined in the customProjectRequirements.txt file. (pip install requirements.txt)
 
 Execute the sh script_training.sh command after completing the setup.
 
