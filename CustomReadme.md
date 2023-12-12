@@ -20,4 +20,6 @@ Clone the Repo : git clone https://github.com/Aneeshreddy00/CCN.git
 
 Google Drive Link: https://drive.google.com/file/d/1Ez3GfpeitqDnbNsbypqgblMkvjxWBKZa/view?usp=drive_link
 
+Expected Results: After running sh script_test.sh can be found under expected_results directory.
+
 
