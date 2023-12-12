@@ -1,0 +1,13 @@
+# Setting the environment variable
+KMP_DUPLICATE_LIB_OK=TRUE
+
+# Python packages
+torch
+torchvision
+compressai
+facenet_pytorch
+opencv-python
+numpy
+piq
+lpips
+
